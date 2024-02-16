@@ -1,0 +1,14 @@
+D:\MPHASIS PROJECTS\Phase-4\ConApp16feb\ConApp16feb\bin\Debug\net6.0\ConApp16feb.exe
+D:\MPHASIS PROJECTS\Phase-4\ConApp16feb\ConApp16feb\bin\Debug\net6.0\ConApp16feb.deps.json
+D:\MPHASIS PROJECTS\Phase-4\ConApp16feb\ConApp16feb\bin\Debug\net6.0\ConApp16feb.runtimeconfig.json
+D:\MPHASIS PROJECTS\Phase-4\ConApp16feb\ConApp16feb\bin\Debug\net6.0\ConApp16feb.dll
+D:\MPHASIS PROJECTS\Phase-4\ConApp16feb\ConApp16feb\bin\Debug\net6.0\ConApp16feb.pdb
+D:\MPHASIS PROJECTS\Phase-4\ConApp16feb\ConApp16feb\obj\Debug\net6.0\ConApp16feb.GeneratedMSBuildEditorConfig.editorconfig
+D:\MPHASIS PROJECTS\Phase-4\ConApp16feb\ConApp16feb\obj\Debug\net6.0\ConApp16feb.AssemblyInfoInputs.cache
+D:\MPHASIS PROJECTS\Phase-4\ConApp16feb\ConApp16feb\obj\Debug\net6.0\ConApp16feb.AssemblyInfo.cs
+D:\MPHASIS PROJECTS\Phase-4\ConApp16feb\ConApp16feb\obj\Debug\net6.0\ConApp16feb.csproj.CoreCompileInputs.cache
+D:\MPHASIS PROJECTS\Phase-4\ConApp16feb\ConApp16feb\obj\Debug\net6.0\ConApp16feb.dll
+D:\MPHASIS PROJECTS\Phase-4\ConApp16feb\ConApp16feb\obj\Debug\net6.0\refint\ConApp16feb.dll
+D:\MPHASIS PROJECTS\Phase-4\ConApp16feb\ConApp16feb\obj\Debug\net6.0\ConApp16feb.pdb
+D:\MPHASIS PROJECTS\Phase-4\ConApp16feb\ConApp16feb\obj\Debug\net6.0\ConApp16feb.genruntimeconfig.cache
+D:\MPHASIS PROJECTS\Phase-4\ConApp16feb\ConApp16feb\obj\Debug\net6.0\ref\ConApp16feb.dll
